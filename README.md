@@ -25,7 +25,7 @@ function sofiaVidea(){
     this.contact = "sofiagineth4@gmail.com";
  }
 
-ngOnInit(){
+ngOnInit(): void{
   this.sofiaVidea();
 }
 ```
