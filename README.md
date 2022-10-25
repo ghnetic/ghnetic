@@ -21,7 +21,7 @@ function sofiaVidea(){
     this.name = "Sofia Videa";
     this.username = "ghnetic";
     this.location = "Tegucigalpa, Honduras";
-    this.color = "yellow";
+    this.favoriteColor = "yellow";
     this.contact = "sofiagineth4@gmail.com";
  }
 
