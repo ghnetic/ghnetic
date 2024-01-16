@@ -36,21 +36,10 @@ ngOnInit(): void{
   </a>
 </div>
 
-<!--
+
 <div align="center">
   <a href="https://open.spotify.com/user/sofiagineth4">
     <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
   </a>
 </div>
--->
 
-## My Statistics
-
-<br/>
-<p align="left">
-  <a href="https://www.hackerrank.com/sofiagineth4">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ghnetic&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ghnetic&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
-<br>
